@@ -24,8 +24,8 @@ Step 6: Perform the Calculator Operation in MainActivity.java
 Step 7: Save and run the application.
 
 ## PROGRAM:
-#### Programmed By : VINOD KUMAR S
-#### Register no.  : 212222240116
+#### Programmed By : NAGUL K
+#### Register no.  : 212222230089
 ### MainActivity.java:
 ```java
 package com.example.workshop01;
